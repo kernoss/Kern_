@@ -4,6 +4,7 @@
 // but will be implemented somewhere else
 extern int count(int[], int);
 
+// add comment
 int main() {
   int array[5] = {4, 5, 6, 7, 8};
   std::count << "The number is: " << count(array, 5) << std::endl;
